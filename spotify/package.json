@@ -1,0 +1,20 @@
+{
+  "name": "Spotify",
+  "version": "0.1.0",
+  "description": "Spotify Web Player",
+  "main": "index.js",
+  "author": "Retzudo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://play.spotify.com",
+    "serviceName": "Spotify",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasedirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {},
+    "openDevTools": false
+  }
+}
