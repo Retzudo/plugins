@@ -1,0 +1,21 @@
+{
+  "name": "Google Play Music",
+  "version": "1.0.0",
+  "description": "Google Play Music",
+  "main": "index.js",
+  "author": "Retzudo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://play.google.com/music/listen",
+    "serviceName": "Google Play Music",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "hasIndirectMessages": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
